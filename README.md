@@ -38,7 +38,7 @@
 ## 🏗️ Portfolio Projects
 
 1. 🏠 **[solidjs-portfolio-homepage]** — Fully featured SolidJS/Vite portfolio. *(Completed 100%, but retired to this Markdown profile to avoid frontend maintenance overhead).*<br/>![Progress](https://geps.dev/progress/100)
-2. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG.<br/>![Progress](https://geps.dev/progress/0)
+2. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG.<br/>![Progress](https://geps.dev/progress/2)
 3. 🦀 **[rust-llm-experiment-tracker]** — CLI in Rust, published cargo crate.<br/>![Progress](https://geps.dev/progress/0)
 4. 🧠 **[attention-tutorial-rust]** — From-scratch attention in Rust, step-by-step with visualisations.<br/>![Progress](https://geps.dev/progress/0)
 5. ☸️ **[llm-on-kubernetes]** — Deploying a 7B model on K8s with real cost/latency numbers.<br/>![Progress](https://geps.dev/progress/0)

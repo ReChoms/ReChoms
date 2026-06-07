@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">René </span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%26+Data+Scientist;ML+Systems+for+Enterprise;AI+%C2%B7+Systems+Engineering+%C2%B7+Finance;Building+in+Rust+%26+Kubernetes&font=Fira+Code&center=true&width=500&height=50&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%26+Data+Scientist;ML+Systems+for+Enterprise;AI+%C2%B7+Systems+Engineering+%C2%B7+Finance;Building+in+Rust+%26+Python&font=Fira+Code&center=true&width=500&height=50&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 

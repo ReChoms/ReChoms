@@ -31,7 +31,6 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/neovim/neovim-original.svg" width="45" title="Neovim"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.simpleicons.org/sap/008fd3" width="45" title="SAP"/>
-  <img src="https://img.shields.io/badge/ABAP-5A5A5A?style=for-the-badge&logo=sap&logoColor=white" height="45" title="ABAP"/>
 </p>
 
 ---

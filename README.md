@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" width="45" title="Rust"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-original.svg" width="45" title="Unix"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" width="45" title="Kubernetes"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/neovim/neovim-original.svg" width="45" title="Neovim"/>

@@ -39,7 +39,7 @@
 ## 🏗️ Portfolio Projects
 
 1. 🏠 **[solidjs-portfolio-homepage]** — Fully featured SolidJS/Vite portfolio. *(Completed 100%, but retired to this Markdown profile to avoid frontend maintenance overhead).*<br/>![Progress](https://geps.dev/progress/100)
-2. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG.<br/>![Progress](https://geps.dev/progress/25)
+2. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG.<br/>![Progress](https://geps.dev/progress/60)
 3. 🦀 **[rust-llm-experiment-tracker]** — CLI in Rust, published cargo crate.<br/>![Progress](https://geps.dev/progress/0)
 4. 🧠 **[attention-tutorial-rust]** — From-scratch attention in Rust, step-by-step with visualisations.<br/>![Progress](https://geps.dev/progress/0)
 5. ☸️ **[llm-on-kubernetes]** — Deploying a 7B model on K8s with real cost/latency numbers.<br/>![Progress](https://geps.dev/progress/0)
@@ -54,16 +54,16 @@
 A public archive of books I have read to deepen my understanding of ML and Systems:
 
 **🤖 Machine Learning & AI**
-* *Deep Learning* (Goodfellow) — ![Progress](https://geps.dev/progress/100)
+* *Deep Learning* (Goodfellow) — ![Progress](https://geps.dev/progress/1)
 * *AI Engineering* (Huyen) — ![Progress](https://geps.dev/progress/50)
 * *Agentic Design Patterns* (Gulli) — ![Progress](https://geps.dev/progress/0)
 * *The AI Conundrum* (Briggs) — ![Progress](https://geps.dev/progress/100)
 * *AI: A Systems Approach* (Martinez/Kifle) — ![Progress](https://geps.dev/progress/100)
 
 **⚙️ Systems & Software Engineering**
-* *Designing Data-Intensive Applications* (Kleppmann) — ![Progress](https://geps.dev/progress/100)
-* *Pragmatic Programmer* (Hunt/Thomas) — ![Progress](https://geps.dev/progress/100)
-* *Clean Code* (Martin) — ![Progress](https://geps.dev/progress/100)
+* *Designing Data-Intensive Applications* (Kleppmann) — ![Progress](https://geps.dev/progress/90)
+* *Pragmatic Programmer* (Hunt/Thomas) — ![Progress](https://geps.dev/progress/10)
+* *Clean Code* (Martin) — ![Progress](https://geps.dev/progress/0)
 
 **📈 Statistics, Economics & Finance**
 * *Elements of Statistical Learning* (Hastie et al.) — ![Progress](https://geps.dev/progress/0)
@@ -79,7 +79,7 @@ Topics and papers I have researched and posted about:
 ### Posts
 
 ### Papers
-* 📄 *Attention Is All You Need* (Vaswani et al., NeurIPS 2017) — ![Progress](https://geps.dev/progress/100)
+* 📄 *Attention Is All You Need* (Vaswani et al., NeurIPS 2017) — ![Progress](https://geps.dev/progress/60)
 * 📈 *Scaling Laws for Neural Language Models* (Kaplan et al., 2020) — ![Progress](https://geps.dev/progress/100)
 * 🚀 *The Power of 10 — NASA's Rules for Safety-Critical Code* (Holzmann, 2006) — ![Progress](https://geps.dev/progress/100)
 * 💻 *JSF C++ Coding Standards* (Lockheed Martin, 2005) — ![Progress](https://geps.dev/progress/100)

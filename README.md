@@ -38,13 +38,10 @@
 
 ## 🏗️ Portfolio Projects
 
-1. 🏠 **[solidjs-portfolio-homepage]** — Fully featured SolidJS/Vite portfolio. *(Completed 100%, but retired to this Markdown profile to avoid frontend maintenance overhead).*<br/>![Progress](https://geps.dev/progress/100)
-2. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG.<br/>![Progress](https://geps.dev/progress/60)
-3. 🦀 **[rust-llm-experiment-tracker]** — CLI in Rust, published cargo crate.<br/>![Progress](https://geps.dev/progress/0)
-4. 🧠 **[attention-tutorial-rust]** — From-scratch attention in Rust, step-by-step with visualisations.<br/>![Progress](https://geps.dev/progress/0)
-5. ☸️ **[llm-on-kubernetes]** — Deploying a 7B model on K8s with real cost/latency numbers.<br/>![Progress](https://geps.dev/progress/0)
-6. 🌐 **[ml-in-browser-rust]** — Running a small LLM in the browser via Rust → WASM.<br/>![Progress](https://geps.dev/progress/0)
-7. 📊 **[llm-eval-enterprise]** — Eval framework for enterprise-shaped tasks.<br/>![Progress](https://geps.dev/progress/0)
+1. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG (Rust, DataFusion, LanceDB). *(Current Project)*<br/>![Progress](https://geps.dev/progress/60)
+2. ⚡ **[RiftStore]** — Distributed MapReduce & RAG Storage Engine in Rust.<br/>![Progress](https://geps.dev/progress/0)
+3. 🚀 **[Rust ML Inference Router]** — High-performance reverse proxy for ML serving in Rust.<br/>![Progress](https://geps.dev/progress/0)
+4. 🏠 **[solidjs-portfolio-homepage]** — Fully featured SolidJS/Vite portfolio. *(Completed 100%, but retired to this Markdown profile. The experience was valuable, especially in hindsight regarding German web laws; while no issues arose, I prefer to avoid the ongoing maintenance hassle).*<br/>![Progress](https://geps.dev/progress/100)
 
 *(Note: Detailed READMEs and code for each project are available in their respective repositories).*
 

@@ -45,6 +45,7 @@
 4. 🧠 **[LEIA Engine]** — Neuro-Symbolic Agents *(possible in future with distributed system application)*<br/>![Progress](https://geps.dev/progress/0)
 ## not available anymore
  🏠 **[solidjs-portfolio-homepage]** — Fully featured SolidJS/Vite portfolio. *(Completed 100%, but retired to this Markdown profile. The experience was valuable, especially in hindsight regarding German web laws; while no issues arose, I prefer to avoid the ongoing maintenance hassle).*<br/>![Progress](https://geps.dev/progress/100)
+
 *(Note: Detailed READMEs and code for each project are available in their respective repositories).*
 
 ---

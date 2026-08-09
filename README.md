@@ -38,7 +38,7 @@
 
 ## 🏗️ Portfolio Projects
 
-1. 🌉 **[sap-to-ai-bridge]** — SAP table data to semantic search via RAG (Rust, DataFusion, LanceDB). *(Current Project)*<br/>![Progress](https://geps.dev/progress/60)
+1. 🌉 **[rust-enterprise-query-engine]** — SAP table data to semantic search via RAG (Rust, DataFusion, LanceDB). *(Current Project)*<br/>![Progress](https://geps.dev/progress/60)
 2. ⚡ **[RiftStore]** — Distributed MapReduce & RAG Storage Engine in Rust.<br/>![Progress](https://geps.dev/progress/0)
 3. 🚀 **[Rust ML Inference Router]** — High-performance reverse proxy for ML serving in Rust.<br/>![Progress](https://geps.dev/progress/0)
 
@@ -61,7 +61,7 @@ A public archive of books I have read to deepen my understanding of ML and Syste
 * *AI: A Systems Approach* (Martinez/Kifle) — ![Progress](https://geps.dev/progress/100)
 
 **⚙️ Systems & Software Engineering**
-* *Designing Data-Intensive Applications* (Kleppmann) — ![Progress](https://geps.dev/progress/90)
+* *Designing Data-Intensive Applications* (Kleppmann) — ![Progress](https://geps.dev/progress/100), new edition outstanding
 * *Pragmatic Programmer* (Hunt/Thomas) — ![Progress](https://geps.dev/progress/10)
 * *Clean Code* (Martin) — ![Progress](https://geps.dev/progress/0)
 

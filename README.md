@@ -56,14 +56,14 @@ A public archive of books I have read to deepen my understanding of ML and Syste
 **🤖 Machine Learning & AI**
 * *Deep Learning* (Goodfellow) — ![Progress](https://geps.dev/progress/1)
 * *AI Engineering* (Huyen) — ![Progress](https://geps.dev/progress/50)
-* *Agentic Design Patterns* (Gulli) — ![Progress](https://geps.dev/progress/0)
+* *Agentic Design Patterns* (Gulli) — ![Progress](https://geps.dev/progress/100)
 * *The AI Conundrum* (Briggs) — ![Progress](https://geps.dev/progress/100)
 * *AI: A Systems Approach* (Martinez/Kifle) — ![Progress](https://geps.dev/progress/100)
 
 **⚙️ Systems & Software Engineering**
 * *Designing Data-Intensive Applications* (Kleppmann) — ![Progress](https://geps.dev/progress/100), new edition outstanding
 * *Pragmatic Programmer* (Hunt/Thomas) — ![Progress](https://geps.dev/progress/10)
-* *Clean Code* (Martin) — ![Progress](https://geps.dev/progress/0)
+* *Clean Code* (Martin) — ![Progress](https://geps.dev/progress/30)
 
 **📈 Statistics, Economics & Finance**
 * *Elements of Statistical Learning* (Hastie et al.) — ![Progress](https://geps.dev/progress/0)
